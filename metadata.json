@@ -1,0 +1,5 @@
+{
+  "name": "Oracle Dashboard Agent",
+  "description": "Institutional trading analysis dashboard for USDCLP campaigns, featuring time-based clustering, price edge analysis, and risk metrics.",
+  "requestFramePermissions": []
+}
